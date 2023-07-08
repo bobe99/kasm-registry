@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'Bob's Kasm Registry',
+    name: 'Bobs Kasm Registry',
     description: 'A registry providing tweaked kasm images',
     icon: '/img/logo.svg',
     listUrl: 'https://bobe99.github.io/kasm-registry/',
